@@ -6,3 +6,4 @@ Wheat Spindle Streak Mosaic Virus (WSSMV), that infects durum wheat due to a fun
 
 [Lien vers notre rapport](https://docs.google.com/document/d/1DuXGW3JgpCKCYd3IyTQpzCtd64LhtV3tCEJTs3fP44I/edit)
 
+![effet du virus](https://ephytia.inra.fr/fr/I/39604/Wheat-mosaic-virus-WMoV-ble)
